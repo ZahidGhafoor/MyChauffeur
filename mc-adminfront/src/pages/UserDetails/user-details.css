@@ -1,0 +1,57 @@
+.profile-img {
+    text-align: center;
+}
+
+.profile-img img {
+    max-width: 100px;
+    padding: 4px;
+    border-radius: 50%;
+    border: 1px dashed #e0e0e0;
+}
+
+.profile-img p {
+    margin-top: 0;
+}
+
+.wallet-card {
+    padding: 20px;
+    position: relative;
+    margin-bottom: 25px;
+    border: 1px solid #f8f8f8;
+}
+
+.wallet-card:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 20px -10px;
+}
+
+.wallet-card.default {
+    background-color: #f8f8f8;
+}
+
+.wallet-card-heading {
+    font-size: 20px;
+    margin: 10px 0;
+
+}
+
+.ballance-card p {
+    margin: 10px 0;
+}
+
+.wallet-price {
+    margin: 10px 0;
+}
+
+.wallet-card-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wallet-card-banner p {
+    font-size: 18px;
+}
+
+.card-type-img img {
+    width: 50px;
+}

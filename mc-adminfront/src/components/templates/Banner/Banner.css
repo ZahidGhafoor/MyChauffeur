@@ -1,0 +1,14 @@
+.banner-heading {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+}
+.heading-title {
+	margin: 0;
+	font-size: 40px;
+}
+/* .banner-data {
+} */

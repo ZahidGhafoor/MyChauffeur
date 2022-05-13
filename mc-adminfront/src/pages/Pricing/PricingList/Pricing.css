@@ -1,0 +1,20 @@
+.pricing-card {
+	padding: 16px;
+	position: relative;
+	background-color: #fafafa;
+}
+
+.pricing-card h3,
+.pricing-card p {
+	margin-bottom: 0;
+}
+
+.pricing-card h4 {
+	margin: 0;
+}
+
+.table-data {
+	height: 100%;
+	padding: 16px;
+	background-color: #ffffff;
+}

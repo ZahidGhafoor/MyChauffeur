@@ -1,0 +1,15 @@
+.fieldBox {
+	margin-bottom: 10px;
+}
+
+.fieldBox h3 {
+	margin-bottom: 0;
+}
+
+.fieldBox p {
+	margin: 0;
+}
+
+.fieldBox label {
+	font-weight: 200;
+}
